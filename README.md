@@ -24,12 +24,6 @@ We loaded the dataset into our model with pre-trained wieghts and infer or evalu
 <li> try to recognize action in online video(live video) where we have to queue up the input from previous frames and merges it with new video frames comming 
 </ol>
 
-### Contribution 
-
-**Ankit** : Wrote doc detail of (intro and conclusion)literature review in PPT, wrote the literature review of ECO paper,network achitecture of Conv2d, Conv3D layer and Resnet3D in network architecture and Eco-lite network architechture in pytorch. <br/>
-**Lochan** : Contributed in Paper review and Doc, Slides in PPT, preprocessed the kinetic dataset with loading it and its pre-trained weights into the model and evaluate the result though inference.py file. <br/>
-**Utkarsh** : Wrote Paper review, doc and slides preparation for mid eval, speaker in mid eval presentation, Added inception layer to ECO2D, Loading pre-trained weights of kinetic dataset into the model and evaluated on the network model, Extracted UCF dataset into frames of each class.<br/>
-**Vinamra** : Wrote Paper review, implemented Eco-lite network architecture in pytorch, wrote dataloader scripts for test and validation dataset, convert kinetics video data to image data(frames) using ffmpeg and also try to finetune model with ucf101 dataset.
    
 
 
